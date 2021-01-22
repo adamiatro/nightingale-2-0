@@ -364,6 +364,9 @@ require get_template_directory() . '/inc/last-reviewed.php';
  */
 require get_template_directory() . '/inc/tabbed-pages.php';
 
+// Block Patterns.
+require get_template_directory() . '/inc/block-patterns.php';
+
 /**
  * Create an array of active plugins.
  */
